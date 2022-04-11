@@ -1,0 +1,13 @@
+.carz{
+    color: white;
+    background-color: black;
+}
+.jhad{
+    color: black;
+    background-color: yellow;
+}
+
+.jhad,.carz{
+font-size: 28px;
+font-family: "Helvetica", "Times New Roman","sans-serif";
+}
